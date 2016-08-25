@@ -1,0 +1,12 @@
+<header class="header">
+<div class="row">
+	<h1 class="col-md-6"> <a href="{{url('/')}}" title="School Bus Tracking Backend"> {{ HTML::image('img/logo.png') }} </a> </h1>
+	<div class="col-md-6">
+		<div class="pull-right">
+            <p>&nbsp;</p>
+        	<a href="mailto: info@adventique.com"><small> info@schoolplace.com</small></a>
+			<strong><small> <br/>With you wherever You are</small></strong>
+		</div>
+	</div>
+</div>
+</header>
